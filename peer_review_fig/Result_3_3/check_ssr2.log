@@ -1,0 +1,13 @@
+Namespace(first=True, id='../rm_1st.rlt.txt2.mm', input='all.MGW_msat_Reduced_dataset.no14.total.csv', paternity='out_ssr2.csv', pt='../../known_parents_all.txt')
+first marker absent: 0	Detail: []
+first marker wrong: 1	Marker_ID: Counter({'Locus4': 1})	Detail: [('MGW_1552', ['Locus4'])]
+Other marker absent: 1	Absent number: [1]	Marker_ID: Counter({'Locus18': 1})	Detail: [('MGW_1398', ['Locus18'])]
+Other marker wrong: 0	Absent number: []
+right offspring number: 18,1.0588235294117647
+Multiple result but the best: 0	ID: []	Reason: []
+Multiple result but not the best: 0	ID: []	Reason: []
+No results but not lacking markers: 0	ID: []	Reason: []
+No results due to not enough markers: 0	ID: []	Reason: []
+No results due to absent markers: 0	ID: []	Reason: []
+No results due to no real PP: 0	ID: []	Reason: []
+Wrong results: 0	ID: []	Reason: []

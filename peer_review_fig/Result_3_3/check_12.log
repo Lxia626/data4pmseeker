@@ -1,0 +1,14 @@
+MGW_1354: wrong_genotype in no_true_pp.
+Namespace(id='all.MGW_refmap_MAF1_2.rlt.txt2.mm', input='all.MGW_refmap_MAF1.geno.filtered.csv', paternity='out_snp_12.csv', pt='../../known_parents_all.txt')
+first marker absent: 0	Detail: []
+first marker wrong: 0
+Other marker absent: 3	Absent number: [1, 1, 1]	Marker_ID: Counter({'13060_134': 2, '2736_46': 1})	Detail: [('MGW_1348', ['2736_46']), ('MGW_1351', ['13060_134']), ('MGW_1393', ['13060_134'])]
+Other marker wrong: 2	Absent number: [1, 1]	Marker_id: Counter({'13060_134': 2})	Detail: [('MGW_1352', ['13060_134']), ('MGW_1354', ['13060_134'])]
+right offspring number: 15,0.8823529411764706
+Multiple result but the best: 0	ID: []	Reason: []
+Multiple result but not the best: 0	ID: []	Reason: []
+No results but not lacking markers: 1	ID: ['MGW_1352']	Reason: [['MGW_1352', 'Other marker wrong']]
+No results due to not enough markers: 0	ID: []	Reason: []
+No results due to absent markers: 0	ID: []	Reason: []
+No results due to no real PP: 1	ID: ['MGW_1354']	Reason: [['MGW_1354', 'Other marker wrong']]
+Wrong results: 0	ID: []	Reason: []

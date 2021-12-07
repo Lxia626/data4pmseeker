@@ -1,0 +1,15 @@
+MGW_1386: wrong_first_marker in no_true_pp.
+MGW_1552: wrong_genotype in no_true_pp.
+Namespace(first=True, id='../rm_1st.rlt.txt1.mm', input='all.MGW_msat_Reduced_dataset.rlt1_1.csv', paternity='out_ssr1.csv', pt='../../known_parents_all.txt')
+first marker absent: 0	Detail: []
+first marker wrong: 1	Marker_ID: Counter({'Locus14': 1})	Detail: [('MGW_1386', ['Locus14'])]
+Other marker absent: 0	Absent number: []	Marker_ID: Counter()	Detail: []
+Other marker wrong: 1	Absent number: [1]	Marker_id: Counter({'Locus4': 1})	Detail: [('MGW_1552', ['Locus4'])]
+right offspring number: 16,0.9411764705882353
+Multiple result but the best: 0	ID: []	Reason: []
+Multiple result but not the best: 0	ID: []	Reason: []
+No results but not lacking markers: 0	ID: []	Reason: []
+No results due to not enough markers: 0	ID: []	Reason: []
+No results due to absent markers: 0	ID: []	Reason: []
+No results due to no real PP: 2	ID: ['MGW_1386', 'MGW_1552']	Reason: [['MGW_1386', 'first marker wrong'], ['MGW_1552', 'Other marker wrong']]
+Wrong results: 0	ID: []	Reason: []

@@ -1,0 +1,13 @@
+Namespace(id='all.MGW_refmap_MAF475_2.rlt.txt2.mm', input='all.MGW_refmap_MAF475.geno.filtered.csv', paternity='out_snp_4752.csv', pt='../../known_parents_all.txt')
+first marker absent: 2	Detail: [('MGW_1351', ['34595_13']), ('MGW_1393', ['34595_13'])]
+first marker wrong: 0
+Other marker absent: 3	Absent number: [1, 2, 1]	Marker_ID: Counter({'42578_12': 1, '17541_134': 1, '35579_107': 1, '36149_27': 1})	Detail: [('MGW_1348', ['42578_12']), ('MGW_1351', ['17541_134', '35579_107']), ('MGW_1347', ['36149_27'])]
+Other marker wrong: 0	Absent number: []
+right offspring number: 17,1.0
+Multiple result but the best: 0	ID: []	Reason: []
+Multiple result but not the best: 0	ID: []	Reason: []
+No results but not lacking markers: 0	ID: []	Reason: []
+No results due to not enough markers: 0	ID: []	Reason: []
+No results due to absent markers: 0	ID: []	Reason: []
+No results due to no real PP: 0	ID: []	Reason: []
+Wrong results: 0	ID: []	Reason: []

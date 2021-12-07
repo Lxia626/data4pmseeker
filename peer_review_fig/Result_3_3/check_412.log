@@ -1,0 +1,14 @@
+MGW_1346: wrong_genotype in no_true_pp.
+Namespace(id='all.MGW_refmap_MAF4_2.rlt.txt1.mm,all.MGW_refmap_MAF4_2.rlt.txt2.mm', input='all.MGW_refmap_MAF4.geno.filtered.csv', paternity='out_snp_412.csv', pt='../../known_parents_all.txt')
+first marker absent: 1	Detail: [('MGW_1353', ['10347_126'])]
+first marker wrong: 0
+Other marker absent: 4	Absent number: [3, 1, 2, 1]	Marker_ID: Counter({'34595_13': 2, '834_120': 1, '20496_66': 1, '7192_17': 1, '62452_59': 1, '36149_27': 1})	Detail: [('MGW_1351', ['34595_13', '834_120', '20496_66']), ('MGW_1393', ['34595_13']), ('MGW_1348', ['7192_17', '62452_59']), ('MGW_1347', ['36149_27'])]
+Other marker wrong: 1	Absent number: [1]	Marker_id: Counter({'834_120': 1})	Detail: [('MGW_1346', ['834_120'])]
+right offspring number: 15,0.8823529411764706
+Multiple result but the best: 1	ID: ['MGW_1348']	Reason: [['MGW_1348', 'Other marker absent']]
+Multiple result but not the best: 1	ID: ['MGW_1351']	Reason: [['MGW_1351', 'Other marker absent']]
+No results but not lacking markers: 0	ID: []	Reason: []
+No results due to not enough markers: 0	ID: []	Reason: []
+No results due to absent markers: 0	ID: []	Reason: []
+No results due to no real PP: 1	ID: ['MGW_1346']	Reason: [['MGW_1346', 'Other marker wrong']]
+Wrong results: 0	ID: []	Reason: []
